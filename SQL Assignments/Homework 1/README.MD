@@ -1,4 +1,4 @@
-database example link : https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip 
+Database example link : https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip 
 
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
